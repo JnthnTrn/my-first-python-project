@@ -26,11 +26,12 @@
 
 y = 1
 
+
 def square_point_plus_ten(x, y):
     z = 10
     print(z)
     x_2 = x*x + z
-    y_2 = y*y + z 
+    y_2 = y*y + z
     return x_2, y_2
 
 
@@ -38,4 +39,4 @@ def square_point_plus_ten(x, y):
 
 # print(str(x_squared) + " " + str(y_squared))
 
-square_point_plus_ten(1,2)
+square_point_plus_ten(1, 2)

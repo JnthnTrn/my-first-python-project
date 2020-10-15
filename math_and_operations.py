@@ -5,7 +5,7 @@
 #     print("goodbye")
 
 # expression = "hello" if 6 >= 6 else "goodbye"
-# print(expression) 
+# print(expression)
 
 # sale = True
 # store_message = "Hello, we have a sale today!" if sale else "We don't have a sale together"
@@ -69,7 +69,7 @@
 # print(add_Two_If_Even_and_add_three_if_three(z))
 
 
-## Try and Except Statements
+# Try and Except Statements
 # try:
 #     a = 1
 #     b = 0
@@ -81,7 +81,7 @@ try:
     a = int(input("a: "))
     b = int(input("b: "))
     print(a/b)
-except ZeroDivisionError: 
+except ZeroDivisionError:
     print("b was equal to zero, computers can't divie by zero!")
     b = int(input("b: "))
     print(a/b)

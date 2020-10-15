@@ -1,7 +1,7 @@
 # print("My First Repo")
-# # x = 5 
+# # x = 5
 # # y = 10
-# # z = 2 
+# # z = 2
 
 # # print(x)
 # # print(y)
@@ -28,7 +28,7 @@
 #     print("odd")
 
 # # num = 5
-# # print(num%2) 
+# # print(num%2)
 
 # # x = 5
 
