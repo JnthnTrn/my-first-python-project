@@ -1,4 +1,6 @@
-# Challenge 1
+#  https://repl.it/repls/HandmadeSufficientReentrant
+# 
+#  Challenge 1
 # def append_sum(lst):
 #     list.append([-1] + [-2])
 #     list.append([-1] + [-2])
@@ -29,3 +31,16 @@
 # print(more_than_n([2, 4, 6, 2, 3, 2, 1, 2], 2, 3))
 
 # Challenge 4
+# def append_size(lst):
+#     lst.append(len(lst))
+#     return lst
+
+# print(append_size([23, 42, 108]))
+
+# Challenge 5
+def combine_sort(lst1, lst2):
+    lst3 = list(zip(lst1, lst2))
+    lst3.sort()
+    return lst3
+print(combine_sort([4, 10, 2, 5], [-10, 2, 5, 10]))
+
