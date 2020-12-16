@@ -83,8 +83,8 @@
 # should print 100
 
 
-def win_percentage(wins, losses):
-    return %
+# def win_percentage(wins, losses):
+#     return %
 
-print(win_percentage(5,5))
-print(win_percentage(10,0))
+# print(win_percentage(5,5))
+# print(win_percentage(10,0))

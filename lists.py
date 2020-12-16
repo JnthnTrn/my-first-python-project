@@ -47,13 +47,13 @@
 #start: x
 #stop: y-1
 #step: z
-even_range = list(range(0, 21, 2))
-print(even_range)
+# even_range = list(range(0, 21, 2))
+# print(even_range)
 
 #range(x, y, z)
 #start: x
 #stop: y-1
 #step: 1
 
-zero_to_five = list(range(0, 6))
-print(zero_to_five)
+# zero_to_five = list(range(0, 6))
+# print(zero_to_five)
